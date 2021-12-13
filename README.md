@@ -5,7 +5,7 @@ We are analyzing how Amazon reviews change depending on whether they are written
 
 # Results
 
-There are 94 vine reviews adn 40471 non-vine reviews. 
+There are 94 vine reviews and 40471 non-vine reviews. 
 
 There are 48 5-star vine reviews and 15,663 5-star vine reviews .
 
